@@ -1,0 +1,8 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+stm32f4xx_hal_flash_ramfunc.su - https://onedrive.live.com/?cid=d8d9d56f5754d8bb&id=D8D9D56F5754D8BB%21489838&action=Download
+
+stm32f4xx_hal_i2c_ex.su - https://onedrive.live.com/?cid=d8d9d56f5754d8bb&id=D8D9D56F5754D8BB%21519185&action=Download
+
+
+
